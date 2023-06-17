@@ -7,18 +7,21 @@
     display: flex;
     justify-content: space-between;
     background-color: #111;
+    
 }
 
 .logo {
     position: fixed;
     left: 20px;
     width: 80px;
+    cursor: pointer;
 }
 
 .avatar {
     position: fixed;
     right: 20px;
     width: 30px;
+    cursor: pointer;
 }
 
 .home {
@@ -26,6 +29,7 @@
     left: 180px;
     width: 80px;
     color: rgb(173, 175, 175);
+    cursor: pointer;
 }
 
 .shows {
@@ -33,6 +37,7 @@
     left: 250px;
     width: 80px;
     color: rgb(173, 175, 175);
+    cursor: pointer;
 }
 
 .movies {
@@ -40,6 +45,7 @@
     left: 350px;
     width: 80px;
     color: rgb(173, 175, 175);
+    cursor: pointer;
 }
 
 .recent {
@@ -47,6 +53,7 @@
     left: 430px;
     width: 180px;
     color: rgb(173, 175, 175);
+    cursor: pointer;
 }
 
 .list {
@@ -54,6 +61,7 @@
     left: 570px;
     width: 80px;
     color: rgb(173, 175, 175);
+    cursor: pointer;
 }
 
 .dvd {
@@ -61,6 +69,7 @@
     right: 30px;
     width: 80px;
     color: rgb(173, 175, 175);
+    cursor: pointer;
 }
 
 .kids {
@@ -68,4 +77,5 @@
     right: 80px;
     width: 80px;
     color: rgb(173, 175, 175);
+    cursor: pointer;
 }
